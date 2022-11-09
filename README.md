@@ -2,7 +2,7 @@
 
 I'm an aspiring developer (web and mobile) and *I'm currently looking for a job~*
 
- ### 🌟🌟 My stack 🌟🌟 
+ ### 🌟 My stack  🌟 
  
  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
  
@@ -12,7 +12,7 @@ I'm an aspiring developer (web and mobile) and *I'm currently looking for a job~
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="linux ubuntu" width="40" height="40"/></a> 
 
-### If you want to reach me
+### 🌟 Ways to contact me:
 
 [![Telegram](https://img.shields.io/badge/-telegram-26A5E4?style=flat-square&logo=Minutemailer&logoColor=white&link=https://t.me/tunder_tunder)](https://t.me/tunder_tunder) 
 [![Email](https://img.shields.io/badge/-alinatunder-d9292b?style=flat-square&logo=gmail&logoColor=white)](mailto:alinatunder@gmail.com)
