@@ -1,9 +1,9 @@
 # Welcome to tunder's github
 
-Hi! I'm Alina (I mostly go by Tunder online) and I'm a web-developer. Here's a collection of wide range of projects I've been working on over the years, looking forward for more to come.
+Hi! I'm Alina (I mostly go by Tunder online) and I'm a web-developer + aspiring data scientist. 
 
-\+
-*I'm currently looking for a job~*
+My git is a collection of wide range of projects I've been working on over the years, and I'm looking forward for more to come.
+
 
  ### 🌟 my stack  🌟 
  
