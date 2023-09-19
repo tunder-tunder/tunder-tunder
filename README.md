@@ -1,6 +1,6 @@
-# Welcome to tunder's github
+# ✨ Welcome to tunder's github ✨
 
-Hi! I'm Alina (I mostly go by Tunder online) and I'm a web-developer + aspiring data scientist. 
+Hi! I'm Alina (I mostly go by Tunder online) and I'm a junior data scientist. 
 
 My git is a collection of wide range of projects I've been working on over the years, and I'm looking forward for more to come.
 
